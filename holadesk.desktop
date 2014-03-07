@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Holadesk
+Comment=The first desktop that integrates the cloud
+Exec=/usr/share/holadesk/bin/holadesk
+Icon=/usr/share/pixmaps/holadesk.png
+Type=Application
